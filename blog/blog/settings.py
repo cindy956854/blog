@@ -81,6 +81,7 @@ DATABASES = {
         'PASSWORD': 'blog',
         'HOST': 'localhost',
         'PORT': '',
+        'main',
     }
 }
 
